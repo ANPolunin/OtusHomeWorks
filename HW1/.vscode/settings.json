@@ -1,0 +1,12 @@
+{
+    "prettier.documentSelectors": [
+        "*.ts"
+    ],
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "prettier.configPath": ".prettierrc.js",
+    "prettier.tabWidth": 4,
+    "prettier.resolveGlobalModules": true,
+    "prettier.requireConfig": true
+}
